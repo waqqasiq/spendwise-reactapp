@@ -1,0 +1,25 @@
+{
+  "short_name": "SpendWise",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "spend.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "spend192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "spend256.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
